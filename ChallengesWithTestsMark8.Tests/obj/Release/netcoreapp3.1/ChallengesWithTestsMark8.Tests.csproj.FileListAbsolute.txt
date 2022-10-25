@@ -1,0 +1,5 @@
+C:\Users\atpcy\Desktop\repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Release\netcoreapp3.1\ChallengesWithTestsMark8.Tests.csproj.AssemblyReference.cache
+C:\Users\atpcy\Desktop\repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Release\netcoreapp3.1\ChallengesWithTestsMark8.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atpcy\Desktop\repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Release\netcoreapp3.1\ChallengesWithTestsMark8.Tests.AssemblyInfoInputs.cache
+C:\Users\atpcy\Desktop\repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Release\netcoreapp3.1\ChallengesWithTestsMark8.Tests.AssemblyInfo.cs
+C:\Users\atpcy\Desktop\repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Release\netcoreapp3.1\ChallengesWithTestsMark8.Tests.csproj.CoreCompileInputs.cache

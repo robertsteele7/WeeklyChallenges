@@ -23,7 +23,7 @@ namespace ChallengesWithTestsMark8
 
         public bool IsNumberEven(int number)
         {
-            if (number % 2 == 0) 
+            if (number % 2 == 0)
             {
                 return true;
             }
@@ -32,7 +32,7 @@ namespace ChallengesWithTestsMark8
 
         public bool IsNumberOdd(int num)
         {
-            if (num % 2 != 0) 
+            if (num % 2 != 0)
             {
                 return true;
             }
@@ -40,17 +40,17 @@ namespace ChallengesWithTestsMark8
         }
         public double SumOfMinAndMax(IEnumerable<double> numbers)
         {
-            if(numbers == null)
-            { 
+            if (numbers == null)
+            {
                 return 0;
             }
 
             if (numbers.Count() == 0)
-            { 
+            {
                 return 0;
             }
-            
-             return numbers.Min() + numbers.Max();
+
+            return numbers.Min() + numbers.Max();
         }
 
         public int GetLengthOfShortestString(string str1, string str2)
@@ -59,8 +59,8 @@ namespace ChallengesWithTestsMark8
             {
                 return str1.Length;
             }
-            else 
-            { 
+            else
+            {
                 return str2.Length;
             }
         }
@@ -75,7 +75,7 @@ namespace ChallengesWithTestsMark8
 
             foreach (var num in numbers)
             {
-                sum += num; 
+                sum += num;
             }
             return sum;
 
@@ -92,10 +92,10 @@ namespace ChallengesWithTestsMark8
             for (int i = 0; i < numbers.Length; i++)
             {
                 if (numbers[i] % 2 == 0)
-                { 
+                {
                     evenSum += numbers[i];
                 }
-                
+
             }
             return evenSum;
         }
@@ -107,11 +107,11 @@ namespace ChallengesWithTestsMark8
                 return false;
             }
             return (numbers.Sum() % 2 != 0);
-            }
         }
+    
 
     public long CountOfPositiveOddsBelowNumber(long number)
-    {
+        {
         if (number <= 0)
         {
             return 0;
@@ -120,7 +120,8 @@ namespace ChallengesWithTestsMark8
         {
             return number / 2;
         }
-       
+
+        }
     }
 }
 
